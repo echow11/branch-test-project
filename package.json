@@ -1,0 +1,22 @@
+{
+  "name": "branch-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echow11/branch-test-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echow11/branch-test-project/issues"
+  },
+  "homepage": "https://github.com/echow11/branch-test-project#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
